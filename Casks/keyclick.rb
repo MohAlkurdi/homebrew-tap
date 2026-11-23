@@ -1,6 +1,6 @@
 cask "keyclick" do
-  version "0.2.0"
-  sha256 "2b13e654ec607fcca5e33c245568f85f4f5590146586d07aa7169cbed7cae9b9"
+  version "0.2.1"
+  sha256 "a85aa32473d2bf0736a65369ece49c4b0a35f20fabe6c0241edee587c62d73fb"
 
   url "https://github.com/MohAlkurdi/keyclick/releases/download/v#{version}/KeyClick.zip"
   name "KeyClick"
